@@ -32,9 +32,6 @@ Copy the required configuration files to your home directory:
 cp -r .config ~/
 ```
 
-## Screenshots
-
-Add screenshots of your desktop setup here.
 
 ## Notes
 
