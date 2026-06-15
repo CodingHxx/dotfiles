@@ -1,0 +1,8 @@
+[soe][Crystalizer#0]
+adaptiveIntensity=false
+intensityBand0=5
+intensityBand1=5
+intensityBand2=0
+outputGain=1
+oversampling=false
+transitionBand=10

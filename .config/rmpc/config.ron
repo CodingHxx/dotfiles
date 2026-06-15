@@ -1,0 +1,9 @@
+#![enable(implicit_some)]
+ConfigFile(
+    address: "/home/aaki/.config/mpd/socket",
+    cache_dir: "/tmp/rmpc/cache",
+    youtube: (
+        // Yahan future settings aayengi, abhi khali chhod sakte hain
+    ),
+)
+

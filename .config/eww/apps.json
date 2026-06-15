@@ -1,0 +1,12 @@
+[
+  { "name": "firefox" },
+  { "name": "code" },
+  { "name": "discord" },
+  { "name": "spotify" },
+  { "name": "org.telegram.desktop" },
+  { "name": "org.kde.dolphin" },
+  { "name": "Alacritty" },
+  { "name": "nvim" },
+  { "name": "postman" },
+  { "name": "btop" }
+]

@@ -1,0 +1,54 @@
+    OpenRGB v0.9+ (1.0rc2)
+    Commit:  from 
+    Launched: 20260613_113413
+====================================================================================================
+
+53    |Info:    [ResourceManager] Initializing HID interfaces: Success
+53    |Info:    ------------------------------------------------------
+53    |Info:    |               Start device detection               |
+53    |Info:    ------------------------------------------------------
+57    |Info:    ------------------------------------------------------
+57    |Info:    |             Detecting I2C interfaces               |
+57    |Info:    ------------------------------------------------------
+57    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-3 Device 10DE:0A65 Subsystem: 1462:2291
+57    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-10 Device 10DE:0A65 Subsystem: 1462:2291
+57    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-1 Device 10DE:0A65 Subsystem: 1462:2291
+57    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-8 Device 10DE:0A65 Subsystem: 1462:2291
+57    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-6 Device 10DE:0A65 Subsystem: 1462:2291
+57    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-4 Device 10DE:0A65 Subsystem: 1462:2291
+57    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-11 Device 10DE:0A65 Subsystem: 1462:2291
+57    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-2 Device 10DE:0A65 Subsystem: 1462:2291
+57    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-0 Device 10DE:0A65 Subsystem: 1462:2291
+57    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-9 Device 10DE:0A65 Subsystem: 1462:2291
+57    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-7 Device 10DE:0A65 Subsystem: 1462:2291
+57    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-5 Device 10DE:0A65 Subsystem: 1462:2291
+57    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-12 Device 8086:A2A3 Subsystem: 1462:7C39
+57    |Info:    ------------------------------------------------------
+57    |Info:    |               Detecting I2C devices                |
+57    |Info:    ------------------------------------------------------
+356   |Info:    ------------------------------------------------------
+356   |Info:    |            Detecting I2C DIMM modules              |
+356   |Info:    ------------------------------------------------------
+579   |Info:    [ResourceManager] Detected occupied slot 2, bus 12, type DDR4
+916   |Info:    [ResourceManager] Detected occupied slot 4, bus 12, type DDR4
+1188  |Info:    ------------------------------------------------------
+1188  |Info:    |               Detecting I2C PCI devices            |
+1188  |Info:    ------------------------------------------------------
+1189  |Info:    ------------------------------------------------------
+1189  |Info:    |               Detecting HID devices                |
+1189  |Info:    ------------------------------------------------------
+1189  |Info:    [] Registering RGB controller
+1189  |Info:    ------------------------------------------------------
+1189  |Info:    |            Detecting libusb HID devices            |
+1189  |Info:    ------------------------------------------------------
+1193  |Info:    ------------------------------------------------------
+1193  |Info:    |              Detecting other devices               |
+1193  |Info:    ------------------------------------------------------
+1197  |Info:    [ResourceManager] Calling Post-detection callbacks
+1197  |Info:    ------------------------------------------------------
+1197  |Info:    |                Detection completed                 |
+1197  |Info:    ------------------------------------------------------
+173715|Info:    [ProfileManager] Found file: 1.orp attempting to validate header
+173715|Info:    [ProfileManager] Valid v5 profile found for 1
+966748|Info:    [ProfileManager] Found file: 1.orp attempting to validate header
+966748|Info:    [ProfileManager] Valid v5 profile found for 1

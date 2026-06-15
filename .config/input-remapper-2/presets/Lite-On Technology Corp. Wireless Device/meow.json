@@ -1,0 +1,87 @@
+[
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 56,
+                "origin_hash": "2eb5e76e55dd07e9e98bf12a8046fc4c"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Super_L+l",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 29,
+                "origin_hash": "2eb5e76e55dd07e9e98bf12a8046fc4c"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Super_L+Shift_L+B",
+        "name": "Control L ",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 57,
+                "origin_hash": "2eb5e76e55dd07e9e98bf12a8046fc4c"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Super_L+Shift_L+S",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 105,
+                "origin_hash": "2eb5e76e55dd07e9e98bf12a8046fc4c"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Control_L+Super_L+Left",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 106,
+                "origin_hash": "2eb5e76e55dd07e9e98bf12a8046fc4c"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "Control_L+Super_L+Right",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 103,
+                "origin_hash": "2eb5e76e55dd07e9e98bf12a8046fc4c"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "key(XF86AudioRaiseVolume)",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 108,
+                "origin_hash": "2eb5e76e55dd07e9e98bf12a8046fc4c"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "key(XF86AudioLowerVolume)",
+        "mapping_type": "key_macro"
+    }
+]

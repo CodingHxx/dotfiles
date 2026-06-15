@@ -1,0 +1,6 @@
+# This file contains fish universal variable definitions.
+# VERSION: 3.0
+SETUVAR --export ANDROID_HOME:/home/aaki/Android/Sdk
+SETUVAR __fish_initialized:4300
+SETUVAR fish_greeting:\x1d
+SETUVAR fish_user_paths:/home/aaki/\x2elocal/share/pnpm/store/v11/links/\x40/node/24\x2e16\x2e0/0b4d0b95627a9c04a18f78720361d2505c4f34b42cfd43e44a418a256eda8695/node_modules/node/bin\x1e/home/aaki/Android/Sdk/platform\x2dtools\x1e/home/aaki/\x2espicetify\x1e/home/aaki/\x2elocal/bin

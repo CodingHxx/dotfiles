@@ -1,0 +1,51 @@
+    OpenRGB v0.9+ (1.0rc2)
+    Commit:  from 
+    Launched: 20260607_184254
+====================================================================================================
+
+53    |Info:    [ResourceManager] Saving detector settings
+54    |Info:    [ResourceManager] Initializing HID interfaces: Success
+54    |Info:    ------------------------------------------------------
+54    |Info:    |               Start device detection               |
+54    |Info:    ------------------------------------------------------
+58    |Info:    ------------------------------------------------------
+58    |Info:    |             Detecting I2C interfaces               |
+58    |Info:    ------------------------------------------------------
+58    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-3 Device 10DE:0A65 Subsystem: 1462:2291
+58    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-10 Device 10DE:0A65 Subsystem: 1462:2291
+58    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-1 Device 10DE:0A65 Subsystem: 1462:2291
+58    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-8 Device 10DE:0A65 Subsystem: 1462:2291
+58    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-6 Device 10DE:0A65 Subsystem: 1462:2291
+58    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-4 Device 10DE:0A65 Subsystem: 1462:2291
+58    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-11 Device 10DE:0A65 Subsystem: 1462:2291
+58    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-2 Device 10DE:0A65 Subsystem: 1462:2291
+58    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-0 Device 10DE:0A65 Subsystem: 1462:2291
+58    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-9 Device 10DE:0A65 Subsystem: 1462:2291
+58    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-7 Device 10DE:0A65 Subsystem: 1462:2291
+58    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-5 Device 10DE:0A65 Subsystem: 1462:2291
+58    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-12 Device 8086:A2A3 Subsystem: 1462:7C39
+58    |Info:    ------------------------------------------------------
+58    |Info:    |               Detecting I2C devices                |
+58    |Info:    ------------------------------------------------------
+360   |Info:    ------------------------------------------------------
+360   |Info:    |            Detecting I2C DIMM modules              |
+360   |Info:    ------------------------------------------------------
+573   |Info:    [ResourceManager] Detected occupied slot 2, bus 12, type DDR4
+913   |Info:    [ResourceManager] Detected occupied slot 4, bus 12, type DDR4
+1173  |Info:    ------------------------------------------------------
+1173  |Info:    |               Detecting I2C PCI devices            |
+1173  |Info:    ------------------------------------------------------
+1174  |Info:    ------------------------------------------------------
+1174  |Info:    |               Detecting HID devices                |
+1174  |Info:    ------------------------------------------------------
+1175  |Info:    [] Registering RGB controller
+1175  |Info:    ------------------------------------------------------
+1175  |Info:    |            Detecting libusb HID devices            |
+1175  |Info:    ------------------------------------------------------
+1180  |Info:    ------------------------------------------------------
+1181  |Info:    |              Detecting other devices               |
+1181  |Info:    ------------------------------------------------------
+1186  |Info:    [ResourceManager] Calling Post-detection callbacks
+1186  |Info:    ------------------------------------------------------
+1186  |Info:    |                Detection completed                 |
+1186  |Info:    ------------------------------------------------------
